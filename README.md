@@ -4,7 +4,7 @@ Github collaboration assignment for MAD257 class
 ## Steps:
 
 - FORK a copy of this repo
-- create a new branch for your stuff (name it with your initals in there)
+- create a new branch for your stuff (name it with your initals in there - like kamBranch or something)
 - add a new file - use your initials in the name and on commit(s)
 - make a small change to a line of text in one of the files - use your initials in the line and on commit(s)
 - generate a pull request
